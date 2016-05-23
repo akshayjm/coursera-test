@@ -31,7 +31,7 @@ header {
 	position: absolute;
 	top: 0px;
 	right: 0px;
-	border: 2px solid blue;
+	border: 2px solid black;
 }
 /********** Large devices only **********/
 @media (min-width: 992px) {
